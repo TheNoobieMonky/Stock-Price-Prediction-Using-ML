@@ -39,12 +39,12 @@ This approach captures both short-term and medium-term trends, reduces overfitti
    
 ![image](https://github.com/user-attachments/assets/e1c294d6-ca6e-46f1-94e8-c30533a20fda)
 
-    | Evaluation Metric |     Result      |
-    | ----------------  | --------------- | 
-    |       MAE         |      20.26      | 
-    |       RMSE        |      26.52      | 
-    |   R-Square Score  |      0.9428     |
-    |       MAPE        |      1.42%      |
+| Evaluation Metric |     Result      |
+| ----------------  | --------------- | 
+|       MAE         |      20.26      | 
+|       RMSE        |      26.52      | 
+|   R-Square Score  |      0.9428     |
+|       MAPE        |      1.42%      |
 
 
 
