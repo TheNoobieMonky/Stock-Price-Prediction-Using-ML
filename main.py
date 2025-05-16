@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 
 # Import Data
-df = pd.read_csv('/kaggle/input/ril-and-hdfc-dataset/reliance_stock_2014_2024.csv') 
+df = pd.read_csv('# Dataset Using') 
 df = df[['Open', 'High', 'Low', 'Close', 'Volume']]  s
 df.dropna(inplace=True)  
 
